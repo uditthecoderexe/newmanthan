@@ -1,0 +1,93 @@
+body {background-color:#00904b;}
+
+
+
+
+
+
+
+
+
+
+.navbar {background-color:white;
+border-radius:none;
+font-family: 'Open Sans', sans-serif;
+}
+.navbar ul {overflow:auto;}
+
+
+
+
+
+
+
+
+.navbar li {padding:20px 20px;
+list-style:none;
+margin:10px 10px;
+font-family: 'Open Sans', sans-serif;
+float:left;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar li a {padding:3px 3px;
+text-decoration:none;
+font-family: 'Open Sans', sans-serif;
+color:black;}
+
+
+
+
+
+
+
+
+
+
+.navbar li a:hover{Color:#0f0fff;}
+.aboutmanthan {background-color:blue;
+Text-align:justify;
+font-size:30px;
+padding: 220px;
+  text-align: center;
+font-family: 'Open Sans', sans-serif;}
+
+
+
+
+
+
+
+
+
+
+.qct{background-color:#f0ff0f;
+padding:220px;
+font-size:30px;
+text-align:justify;
+font-family: 'Open Sans', sans-serif;}
+
+
+
+
+
+
+
+
+.tech{padding:220px;
+text-align:center;
+background-color:#93f7b9;
+font-size:30px;}
+.footercopyright{background-color:#ffac4c;
+padding:50px;
+font-family: 'Open Sans', sans-serif;}
